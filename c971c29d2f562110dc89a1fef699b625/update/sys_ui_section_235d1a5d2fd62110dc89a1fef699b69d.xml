@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="235d1a5d2fd62110dc89a1fef699b69d" sys_domain="global" table="x_966956_tom_leave_bucket" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employee</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-20 09:44:00</sys_created_on>
+            <sys_id>bb3b4ff52f122110dc89a1fef699b6eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_966956_tom_leave_bucket" sys_domain="global" view="Default view">235d1a5d2fd62110dc89a1fef699b69d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-20 09:44:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_year_balance</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-20 09:44:00</sys_created_on>
+            <sys_id>3f3b4ff52f122110dc89a1fef699b6eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_966956_tom_leave_bucket" sys_domain="global" view="Default view">235d1a5d2fd62110dc89a1fef699b69d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-20 09:44:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>leave_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-20 09:44:00</sys_created_on>
+            <sys_id>bf3b4ff52f122110dc89a1fef699b6eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_966956_tom_leave_bucket" sys_domain="global" view="Default view">235d1a5d2fd62110dc89a1fef699b69d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-20 09:44:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-20 09:44:00</sys_created_on>
+            <sys_id>333b4ff52f122110dc89a1fef699b6ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_966956_tom_leave_bucket" sys_domain="global" view="Default view">235d1a5d2fd62110dc89a1fef699b69d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-20 09:44:00</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>taken</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-20 09:44:00</sys_created_on>
+            <sys_id>b33b4ff52f122110dc89a1fef699b6ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_966956_tom_leave_bucket" sys_domain="global" view="Default view">235d1a5d2fd62110dc89a1fef699b69d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-20 09:44:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>accured</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-20 09:44:00</sys_created_on>
+            <sys_id>373b4ff52f122110dc89a1fef699b6ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_966956_tom_leave_bucket" sys_domain="global" view="Default view">235d1a5d2fd62110dc89a1fef699b69d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-20 09:44:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>balance</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-20 09:44:00</sys_created_on>
+            <sys_id>b73b4ff52f122110dc89a1fef699b6ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_966956_tom_leave_bucket" sys_domain="global" view="Default view">235d1a5d2fd62110dc89a1fef699b69d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-20 09:44:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_966956_tom_leave_bucket</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-18 17:06:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>235d1a5d2fd62110dc89a1fef699b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_966956_tom_leave_bucket</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Time-Off Management" source="x_966956_tom">c971c29d2f562110dc89a1fef699b625</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time-Off Management">c971c29d2f562110dc89a1fef699b625</sys_scope>
+            <sys_update_name>sys_ui_section_235d1a5d2fd62110dc89a1fef699b69d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-18 17:06:37</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

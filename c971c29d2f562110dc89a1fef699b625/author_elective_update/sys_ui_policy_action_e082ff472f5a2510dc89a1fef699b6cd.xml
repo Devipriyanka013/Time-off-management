@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>duration</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-24 09:48:28</sys_created_on>
+        <sys_id>e082ff472f5a2510dc89a1fef699b6cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>duration</sys_name>
+        <sys_package display_value="Time-Off Management" source="x_966956_tom">c971c29d2f562110dc89a1fef699b625</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time-Off Management">c971c29d2f562110dc89a1fef699b625</sys_scope>
+        <sys_update_name>sys_ui_policy_action_e082ff472f5a2510dc89a1fef699b6cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-24 09:48:28</sys_updated_on>
+        <table>x_966956_tom_leave_request</table>
+        <ui_policy display_value="Field make mandatory">9dd03f072f5a2510dc89a1fef699b6a7</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Time-Off Management">c971c29d2f562110dc89a1fef699b625</application>
+        <file_path/>
+        <instance_id>3e5b6b17db0ccc180ae3ac44d49619ef</instance_id>
+        <instance_name>dev93989</instance_name>
+        <name>sys_ui_policy_action_e082ff472f5a2510dc89a1fef699b6cd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>duration</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-24 09:48:28</sys_created_on><sys_id>e082ff472f5a2510dc89a1fef699b6cd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>duration</sys_name><sys_package display_value="Time-Off Management" source="x_966956_tom">c971c29d2f562110dc89a1fef699b625</sys_package><sys_policy/><sys_scope display_value="Time-Off Management">c971c29d2f562110dc89a1fef699b625</sys_scope><sys_update_name>sys_ui_policy_action_e082ff472f5a2510dc89a1fef699b6cd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-24 09:48:28</sys_updated_on><table>x_966956_tom_leave_request</table><ui_policy display_value="Field make mandatory">9dd03f072f5a2510dc89a1fef699b6a7</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1683997815</payload_hash>
+        <record_name>duration</record_name>
+        <reverted_from/>
+        <source>8171c29d2f562110dc89a1fef699b627</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-24 09:48:28</sys_created_on>
+        <sys_id>40a2ff472f5a2510dc89a1fef699b6c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187b2aa28960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-24 09:48:28</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>88a2ff47a35a2510cf7746911b4b78bf</update_guid>
+        <update_guid_history>88a2ff47a35a2510cf7746911b4b78bf:1683997815</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-25 05:10:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>3ef853fa2fc244d89bfad33491eabf10</sys_id>
+        <sys_metadata>e082ff472f5a2510dc89a1fef699b6cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>duration</sys_name>
+        <sys_package display_value="Time-Off Management" source="x_966956_tom">c971c29d2f562110dc89a1fef699b625</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Time-Off Management">c971c29d2f562110dc89a1fef699b625</sys_scope>
+        <sys_scope_delete display_value="">5fc5e4305b6f4a10a7f165f90e06f464</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_e082ff472f5a2510dc89a1fef699b6cd</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_e082ff472f5a2510dc89a1fef699b6cd">40a2ff472f5a2510dc89a1fef699b6c0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-25 05:10:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

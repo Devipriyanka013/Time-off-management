@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_966956_tom.new_calculator_user" name="x_966956_tom.new_calculator_user">805bde952fd62110dc89a1fef699b608</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 16:57:38</sys_created_on>
+        <sys_id>885b56d92fd62110dc89a1fef699b6ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>805bde952fd62110dc89a1fef699b608</sys_name>
+        <sys_package display_value="Time-Off Management" source="x_966956_tom">c971c29d2f562110dc89a1fef699b625</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time-Off Management">c971c29d2f562110dc89a1fef699b625</sys_scope>
+        <sys_update_name>sys_embedded_help_role_885b56d92fd62110dc89a1fef699b6ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 16:57:38</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
